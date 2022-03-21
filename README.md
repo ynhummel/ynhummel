@@ -1,4 +1,13 @@
-### Hi there 👋
+### :mage: Olá ~mundo~ GitHub 
+Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas novas.
+
+:hammer: Atualmente trabalho com:
+- Python (Web com Django/Flask e Visão Computacional com OpenCV/Pillow/Tensorflow)
+- Ruby (Web com Rails e Padrino)
+- Javascript (Front-end com VueJS)
+
+Busco aprender mais sobre Elixir, C++ e Rust
+
 
 <!--
 **ynhummel/ynhummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
