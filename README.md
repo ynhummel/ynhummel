@@ -6,7 +6,13 @@ Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas
 - Ruby (Web com Rails e Padrino)
 - Javascript (Front-end com VueJS)
 
-Busco aprender mais sobre Elixir, C++ e Rust
+Busco aprender mais sobre Elixir, C++ e Rust.
+
+<div align="center">
+  
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ynhummel&langs_count=5&theme=tokyonight)]()
+
+</div>
 
 
 <!--
