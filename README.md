@@ -8,12 +8,6 @@ Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas
 
 Busco aprender mais sobre Elixir, C++ e Rust.
 
-<div align="center">
-  
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ynhummel&langs_count=5&theme=tokyonight)]()
-
-</div>
-
 
 <!--
 **ynhummel/ynhummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
