@@ -1,4 +1,4 @@
-### :mage: Olá ~mundo~ GitHub 
+### :mage: Olá GitHub 
 Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas novas.
 
 :hammer: Atualmente trabalho com:
