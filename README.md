@@ -3,7 +3,7 @@ Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas
 
 :hammer: Atualmente trabalho com:
 - Python (Web com Django/Flask e Visão Computacional com OpenCV/Pillow/Tensorflow)
-- Ruby (Web com Rails e Padrino)
+- Ruby (Web com Rails e Sinatra)
 - Javascript (Front-end com VueJS)
 
 Busco aprender mais sobre Elixir, C++ e Rust.
