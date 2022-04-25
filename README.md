@@ -6,7 +6,7 @@ Entusiasta de computação (Hardware & Software) buscando sempre aprender coisas
 - Ruby (Web com Rails e Sinatra)
 - Javascript (Front-end com VueJS)
 
-Busco aprender mais sobre Elixir, C++ e Rust.
+Busco aprender mais sobre Elixir e Go
 
 
 <!--
