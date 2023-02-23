@@ -1,12 +1,12 @@
 ### :mage: Hello GitHub 
-Entusiasta de computação (Hardware & Software) atuando como desenvolvedor Back-end com Ruby on Rails.
+Entusiasta de computação (Hardware & Software) atuando como desenvolvedor Back-end com Golang e Python.
 
 :hammer: Tenho experiência com :
 - Desenvolvimento Web com Ruby on Rails 
 - Análise de imagens e Visão computacional com Python
 - Javascript (Front-end com VueJS)
 
-Ultimamente tenho estudado Go para microsserviços.
+Tenho estudado Go para microsserviços.
 
 <!--
 **ynhummel/ynhummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
