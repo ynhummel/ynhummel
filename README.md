@@ -6,7 +6,6 @@ Entusiasta de computação (Hardware & Software) atuando como desenvolvedor Back
 - Análise de imagens e Visão computacional com Python
 - Javascript (Front-end com VueJS)
 
-Tenho estudado Go para microsserviços.
 
 <!--
 **ynhummel/ynhummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
