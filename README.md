@@ -1,5 +1,5 @@
 ### :mage: Hello GitHub 
-Entusiasta de computação (Hardware & Software) atuando como desenvolvedor Back-end com Golang e Python.
+Entusiasta de computação atuando como desenvolvedor Back-end com Golang e Python.
 
 :hammer: Tenho experiência com :
 - Desenvolvimento Web com Ruby on Rails 
